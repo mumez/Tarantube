@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TrOptionsBuilder",
+	"category" : "Tarantube-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TrTubeOptionsBuilder",
+	"type" : "normal"
+}

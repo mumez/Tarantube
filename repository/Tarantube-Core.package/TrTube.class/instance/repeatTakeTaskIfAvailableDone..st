@@ -1,0 +1,3 @@
+taking tasks
+repeatTakeTaskIfAvailableDone: aTaskHandlerBlock
+	^ self repeatTakeTaskFor: self defaultWaitTimeoutSeconds ifAvailableDone: aTaskHandlerBlock

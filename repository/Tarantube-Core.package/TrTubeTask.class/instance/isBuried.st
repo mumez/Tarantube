@@ -1,0 +1,3 @@
+testing
+isBuried
+	^self status = '!'

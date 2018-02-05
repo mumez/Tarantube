@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TrObject",
+	"category" : "Tarantube-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"status",
+		"data"
+	],
+	"name" : "TrTubeTask",
+	"type" : "normal"
+}
