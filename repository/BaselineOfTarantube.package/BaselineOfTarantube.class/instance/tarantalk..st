@@ -1,5 +1,5 @@
 external projects
-tarantool: spec
+tarantalk: spec
 	spec
 		baseline: 'Tarantalk'
 		with: [ spec
