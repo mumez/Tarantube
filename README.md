@@ -21,11 +21,7 @@ tube statistics.
 
 # Installation
 ```smalltalk
-Metacello new
-    smalltalkhubUser: 'Pharo' project: 'MetaRepoForPharo50';
-    configuration: 'Tarantube';
-    version: #stable;
-    load.
+Metacello new  baseline: 'Tarantube';  repository: 'github://mumez/Tarantube/repository';  load.
 ```
 
 And extend your tarantool with [queue module](https://github.com/tarantool/queue).
