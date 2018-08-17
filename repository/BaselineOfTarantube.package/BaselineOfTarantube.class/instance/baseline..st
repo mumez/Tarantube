@@ -3,7 +3,7 @@ baseline: spec
 	<baseline>
 	
 	spec for: #common do: [
-		self tarantool: spec.
+		self tarantalk: spec.
 		spec
 			package: 'Tarantube-Core'.
 			
