@@ -5,7 +5,7 @@ baseline: spec
 	spec for: #common do: [
 		self tarantalk: spec.
 		spec
-			package: 'Tarantube-Core'.
+			package: 'Tarantube-Core' with: [spec requires: #('Tarantalk') ].
 			
 		spec
 			group: 'default' with: #('Core');
