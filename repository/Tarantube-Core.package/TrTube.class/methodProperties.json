@@ -38,10 +38,11 @@
 		"options" : "MasashiUmezawa 1/28/2017 16:24",
 		"repeatTakeTaskIfAvailableDone:" : "MasashiUmezawa 1/29/2017 14:16",
 		"space" : "MasashiUmezawa 6/21/2019 09:21",
+		"repeatTakeTaskIfTrue:for:sleep:ifAvailable:" : "MasashiUmezawa 6/21/2019 09:36",
 		"options:" : "MasashiUmezawa 1/28/2017 16:23",
 		"repeatTakeTaskFor:ifAvailable:" : "MasashiUmezawa 1/29/2017 00:42",
-		"ttl" : "MasashiUmezawa 1/28/2017 16:29",
-		"defaultWaitTimeoutSeconds" : "MasashiUmezawa 1/29/2017 14:15"
+		"defaultWaitTimeoutSeconds" : "MasashiUmezawa 1/29/2017 14:15",
+		"ttl" : "MasashiUmezawa 1/28/2017 16:29"
 	},
 	"class" : { }
 }
