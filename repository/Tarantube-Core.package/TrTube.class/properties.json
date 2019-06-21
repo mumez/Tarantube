@@ -10,7 +10,9 @@
 		"name",
 		"type",
 		"options",
-		"poller"
+		"space",
+		"poller",
+		"stateIndex"
 	],
 	"name" : "TrTube",
 	"type" : "normal"
